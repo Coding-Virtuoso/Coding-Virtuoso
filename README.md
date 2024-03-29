@@ -7,7 +7,7 @@
 <br>
 - 💞️ I’m looking to collaborate on projects that involve creating innovative web applications or implementing machine learning algorithms.
 <br>
-- 📫 How to reach me: Feel free to send me a message on GitHub or reach out to me via email at coding.virtuoso@example.com.
+- 📫 How to reach me: Feel free to send me a message on GitHub or reach out to me via email at `coding.virtuoso.prodigy@gmail.com`.
 <br>
 - 😄 Pronouns: He/His
 <br>
